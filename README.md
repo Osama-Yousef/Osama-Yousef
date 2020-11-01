@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hello there! My name is Osama Yousef. 👋</h2>
-<p align="center">I'm a full-stack JavaScript & Python software developer from Jordan.
+<p align="center">I'm a full-stack JavaScript & Python software developer from Jordan.<br>
 I created cool stuff and projects that you may would like to check about in my repositories 😄.
 Civil engineer who followed his passion and became a software developer because he wants to be creative and build something cool all the time . 
 I took full-stack software development course in partnership with the American Code Fellows Academy, i learned a lot and gained awesome skills and knowledge.
