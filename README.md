@@ -12,10 +12,10 @@ When I'm not developing and building things, you can find me learning somethings
 
 ### TECHNICAL SKILLS
 <p>
-***Languages :*** JavaScript, HTML5, CSS, Python, SQL, Markdown, ES6, EJS, Sass <br>
-***Frameworks :*** React, Next.js, REST APIs, Django, PostgreSQL, SMACSS <br>
-***Tools :*** Unix, Command Prompt, Git, GitHub, VS Code, jQuery, Node.js, Chart.js, Heroku, Express.js, npm, Docker, JupyterLab, NumPy, pandas, Matplotlib, Seaborn, Beautiful Soup, ElephantSQL, Vercel, PyCharm <br>
-***Operating Systems :*** Windows, Ubuntu 
+<b>Languages :</b> JavaScript, HTML5, CSS, Python, SQL, Markdown, ES6, EJS, Sass <br>
+Frameworks : React, Next.js, REST APIs, Django, PostgreSQL, SMACSS <br>
+Tools : Unix, Command Prompt, Git, GitHub, VS Code, jQuery, Node.js, Chart.js, Heroku, Express.js, npm, Docker, JupyterLab, NumPy, pandas, Matplotlib, Seaborn, Beautiful Soup, ElephantSQL, Vercel, PyCharm <br>
+Operating Systems : Windows, Ubuntu 
 </p>
 
 <!--
