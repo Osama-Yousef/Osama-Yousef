@@ -10,6 +10,13 @@ I took full-stack software development course in partnership with the American C
 I am good problem solving and love coding because it is about challenging yourself  🤓 ...<br>
 When I'm not developing and building things, you can find me learning somethings new, solving some code challenges,reading and descovering all new in the field of work, hanging out with friends,watching football matches, etc... </p>
 
+### TECHNICAL SKILLS
+<p>
+Languages : JavaScript, HTML5, CSS, Python, SQL, Markdown, ES6, EJS, Sass <br>
+Frameworks : React, Next.js, REST APIs, Django, PostgreSQL, SMACSS <br>
+Tools : Unix, Command Prompt, Git, GitHub, VS Code, jQuery, Node.js, Chart.js, Heroku, Express.js, npm, Docker, JupyterLab, NumPy, pandas, Matplotlib, Seaborn, Beautiful Soup, ElephantSQL, Vercel, PyCharm <br>
+Operating Systems : Windows, Ubuntu 
+</p>
 
 <!--
 **Osama-Yousef/Osama-Yousef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
