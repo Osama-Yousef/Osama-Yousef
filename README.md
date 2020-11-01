@@ -10,7 +10,7 @@ I took full-stack software development course in partnership with the American C
 I am good problem solving and love coding because it is about challenging yourself  🤓 ...<br><br>
 When I'm not developing and building things, you can find me learning somethings new, solving some code challenges,reading and descovering all new in the field of work, hanging out with friends,watching football matches, etc... </p>
 
-### TECHNICAL SKILLS
+<h3 align="center"><b>TECHNICAL SKILLS</b></h3>
 <br>
 <p>
 <b>Languages :</b> JavaScript, HTML5, CSS, Python, SQL, Markdown, ES6, EJS, Sass <br><br>
