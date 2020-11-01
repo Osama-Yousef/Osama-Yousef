@@ -42,4 +42,5 @@ Here are some ideas to get you started:
 
 <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Yousef&theme=radical" />
-![osama Github Stats](https://github-readme-stats.vercel.app/api?username=Osama-Yousef&show_icons=true&theme=radical)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Osama-Yousef&show_icons=true&theme=radical" />
