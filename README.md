@@ -1,13 +1,14 @@
-### Hi there 👋
 <p align='center'>
 <a href="https://www.linkedin.com/in/osamayousef95/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<h2 align="center">Hello there! My name is Stephen Ajulu. 👋🤓</h2>
-<p align="center">I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
-I'm also currently doing my Bsc in IT while working on my company and other projects.
-I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging and Automation.
-When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi(my own and my clients), Studying or watching anime</p>
+<h2 align="center">Hello there! My name is Osama Yousef. 👋</h2>
+<p align="center">I'm a full-stack JavaScript & Python software developer from Jordan.
+I created cool stuff and projects that you may would like to check about in my repositories 😄.
+Civil engineer who followed his passion and became a software developer because he wants to be creative and build something cool all the time . 
+I took full-stack software development course in partnership with the American Code Fellows Academy, i learned a lot and gained awesome skills and knowledge.
+I am good problem solving and love coding because it is about challenging yourself  🤓 ...
+When I'm not developing and building things, you can find me learning somethings new, solving some code challenges,reading and descovering all new in the field of work, hanging out with friends,watching football matches, etc... </p>
 
 
 <!--
